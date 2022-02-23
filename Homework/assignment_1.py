@@ -1,4 +1,4 @@
-#Name: {Naphatson sapphaburut}
+#Name: {NAPHATSON SAPPHABURUT}
 #SID: {364211760032}
 #Group: {MIT212}
 
